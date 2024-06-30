@@ -10,8 +10,7 @@ int a[N];
 main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);cout.tie(0);
-    freopen("chiak.inp","r",stdin);
-    freopen("chiak.out","w",stdout);
+
 
     cin>>n>>k;
 
